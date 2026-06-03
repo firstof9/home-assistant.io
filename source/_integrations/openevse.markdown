@@ -14,6 +14,7 @@ ha_codeowners:
 ha_domain: openevse
 ha_zeroconf: true
 ha_platforms:
+  - button
   - number
   - sensor
 ha_integration_type: device
@@ -30,6 +31,13 @@ The **OpenEVSE** {% term integration %} allows you to monitor your [OpenEVSE](ht
 
 ## Configuration
 
+
+## Buttons
+
+The integration provides the following button entities to perform actions. The default names are listed below:
+
+- **Restart EVSE**: Restarts the charging module.
+- **Restart WiFi**: Restarts the Wi-Fi module.
 
 ## Sensors
 
