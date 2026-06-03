@@ -37,7 +37,7 @@ The **OpenEVSE** {% term integration %} allows you to monitor your [OpenEVSE](ht
 The integration provides the following button entities to perform actions. The default names are listed below:
 
 - **Restart EVSE**: Restarts the charging module.
-- **Restart WiFi**: Restarts the Wi-Fi module.
+- **Restart Wi-Fi**: Restarts the Wi-Fi module.
 
 ## Sensors
 
